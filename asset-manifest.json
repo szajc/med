@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/med/static/css/main.fbc247da.chunk.css",
-    "main.js": "/med/static/js/main.58f4ecab.chunk.js",
-    "main.js.map": "/med/static/js/main.58f4ecab.chunk.js.map",
+    "main.css": "/med/static/css/main.2f6bd273.chunk.css",
+    "main.js": "/med/static/js/main.6a246048.chunk.js",
+    "main.js.map": "/med/static/js/main.6a246048.chunk.js.map",
     "runtime-main.js": "/med/static/js/runtime-main.183d1cf9.js",
     "runtime-main.js.map": "/med/static/js/runtime-main.183d1cf9.js.map",
-    "static/js/2.6524e29e.chunk.js": "/med/static/js/2.6524e29e.chunk.js",
-    "static/js/2.6524e29e.chunk.js.map": "/med/static/js/2.6524e29e.chunk.js.map",
+    "static/js/2.b8766ff0.chunk.js": "/med/static/js/2.b8766ff0.chunk.js",
+    "static/js/2.b8766ff0.chunk.js.map": "/med/static/js/2.b8766ff0.chunk.js.map",
     "index.html": "/med/index.html",
-    "precache-manifest.0668cef19fdf84b66c850e0d0beeb4c4.js": "/med/precache-manifest.0668cef19fdf84b66c850e0d0beeb4c4.js",
+    "precache-manifest.d10cfb8fa2ebf3b26cd272a495e4494c.js": "/med/precache-manifest.d10cfb8fa2ebf3b26cd272a495e4494c.js",
     "service-worker.js": "/med/service-worker.js",
-    "static/css/main.fbc247da.chunk.css.map": "/med/static/css/main.fbc247da.chunk.css.map",
-    "static/js/2.6524e29e.chunk.js.LICENSE.txt": "/med/static/js/2.6524e29e.chunk.js.LICENSE.txt",
+    "static/css/main.2f6bd273.chunk.css.map": "/med/static/css/main.2f6bd273.chunk.css.map",
+    "static/js/2.b8766ff0.chunk.js.LICENSE.txt": "/med/static/js/2.b8766ff0.chunk.js.LICENSE.txt",
     "static/media/DownloadAndroid.png": "/med/static/media/DownloadAndroid.06b03faa.png",
     "static/media/downloadApple.png": "/med/static/media/downloadApple.ea380b0d.png",
     "static/media/facebook.svg": "/med/static/media/facebook.34e73505.svg",
     "static/media/frame_klepet.png": "/med/static/media/frame_klepet.700d572e.png",
     "static/media/frame_lekarne.png": "/med/static/media/frame_lekarne.b625cc11.png",
     "static/media/frame_teza.png": "/med/static/media/frame_teza.7ebce9c7.png",
+    "static/media/hamburger.png": "/med/static/media/hamburger.ae962523.png",
     "static/media/header2.png": "/med/static/media/header2.584a773a.png",
     "static/media/instagram.svg": "/med/static/media/instagram.e75317fa.svg",
     "static/media/klepet.jpg": "/med/static/media/klepet.e2816977.jpg",
@@ -28,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.183d1cf9.js",
-    "static/js/2.6524e29e.chunk.js",
-    "static/css/main.fbc247da.chunk.css",
-    "static/js/main.58f4ecab.chunk.js"
+    "static/js/2.b8766ff0.chunk.js",
+    "static/css/main.2f6bd273.chunk.css",
+    "static/js/main.6a246048.chunk.js"
   ]
 }
